@@ -93,6 +93,8 @@ Kontribusi sangat diterima! Jika Anda ingin berkontribusi pada proyek ini, ikuti
 4. Push ke branch (`git push origin feature/FiturLuarBiasa`).
 5. Buka Pull Request.
 
+Link Refrensi Github : https://github.com/d-khalang/Smart-planting-with-IoT
+
 ## Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
