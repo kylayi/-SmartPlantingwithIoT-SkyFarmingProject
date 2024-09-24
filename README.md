@@ -1,5 +1,5 @@
 
-# Smart Plantig with Iot - Sky Farming Project
+# Smart Plantig with IoT - Sky Farming Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
